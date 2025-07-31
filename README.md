@@ -8,6 +8,7 @@
 Worked on real-world datasets to generate predictive insights, reduce churn, and improve platform engagement. Applied data cleaning, visualization, and modeling techniques across four weeks of strategic deliverables.
 
 ---
+## 🗓 Weekly Progress
 
 ## 🧹 Week 1: Data Cleaning & Feature Engineering
 - Removed 8,400+ duplicate and invalid records  
