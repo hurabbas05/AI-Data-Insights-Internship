@@ -55,3 +55,10 @@ Worked on real-world datasets to generate predictive insights, reduce churn, and
 - Improved problem-solving and presentation skills.
 - Successfully applied classroom knowledge to real-world data challenges.
 
+## 🙋‍♂️ Author
+
+**Syed Hur Abbas Naqvi**  
+📧 syedhur572@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/hurabbas05)
+
+---
