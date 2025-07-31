@@ -1,7 +1,7 @@
 # AI-Powered Data Insights Virtual Internship
 
 **Platform:** Excelerate    
-**Role:** AI Data Analyst Intern  
+**Role:** Data Analyst  
 **Duration:** June – July 2025  
 **Location:** Remote – Dubai, UAE  
 
